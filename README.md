@@ -10,6 +10,13 @@ $ npm install css-type-definition
 
 ## Usage
 
+```js
+var require('css-type-definition')
+
+definition('background-color') // color
+definition('font-size') // length
+```
+
 ## License
 
 The MIT License (MIT)
