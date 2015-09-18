@@ -10,7 +10,15 @@
     "type": "git",
     "url": "git://github.com/morishitter/css-type-definition/git"
   },
-  "keywords": ["css","type","property","value"],
+  "keywords": [
+    "css",
+    "type",
+    "property",
+    "value"
+  ],
   "author": "Masaaki Morishita",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
 }

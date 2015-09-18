@@ -1,6 +1,16 @@
 var test = require('tape')
-var css-type-definition = require('..')
+var definition = require('..')
 
-test('description', function (t) {
+test('definition', function (t) {
+    var expected = 'length'
+    var actual = definition('padding-top')
+    t.equal(expected, actual)
+    t.end()
+})
+
+test('definition', function (t) {
+    var expected = 'color'
+    var actual = definition('background-color')
+    t.equal(expected, actual)
     t.end()
 })
