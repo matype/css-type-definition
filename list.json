@@ -1,0 +1,30 @@
+{
+  "length": [
+    "padding",
+    "padding-top",
+    "padding-right",
+    "padding-bottom",
+    "padding-left",
+    "margin",
+    "margin-top",
+    "margin-right",
+    "margin-bottom",
+    "margin-left",
+    "width",
+    "max-width",
+    "min-width",
+    "height",
+    "max-height",
+    "min-height",
+    "font-size"
+  ],
+  "color": [
+    "color",
+    "border-color",
+    "border-top-color",
+    "border-right-color",
+    "border-bottom-color",
+    "border-left-color",
+    "background-color"
+  ]
+}
