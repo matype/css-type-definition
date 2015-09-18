@@ -1,0 +1,16 @@
+{
+  "name": "css-type-definition",
+  "version": "0.0.0",
+  "description": "List of values that the CSS property can be taken",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/css-type-definition/git"
+  },
+  "keywords": ["css","type","property","value"],
+  "author": "Masaaki Morishita",
+  "license": "MIT"
+}
