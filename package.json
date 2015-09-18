@@ -1,6 +1,6 @@
 {
   "name": "css-type-definition",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "List of values that the CSS property can be taken",
   "main": "index.js",
   "scripts": {
